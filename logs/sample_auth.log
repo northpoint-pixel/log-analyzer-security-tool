@@ -1,0 +1,11 @@
+Apr 21 09:01:12 server1 sshd[1021]: Failed password for invalid user admin from 192.168.1.10 port 51422 ssh2
+Apr 21 09:01:18 server1 sshd[1022]: Failed password for invalid user admin from 192.168.1.10 port 51423 ssh2
+Apr 21 09:01:25 server1 sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 51424 ssh2
+Apr 21 09:02:10 server1 sshd[1024]: Failed password for root from 192.168.1.20 port 60311 ssh2
+Apr 21 09:02:31 server1 sshd[1025]: Accepted password for analyst from 192.168.1.50 port 60399 ssh2
+Apr 21 09:03:42 server1 app[2101]: WARNING configuration file missing optional key
+Apr 21 09:04:15 server1 app[2102]: ERROR failed to connect to database
+Apr 21 09:05:02 server1 sshd[1026]: Failed password for invalid user test from 192.168.1.10 port 51425 ssh2
+Apr 21 09:05:35 server1 sshd[1027]: Failed password for invalid user guest from 192.168.1.30 port 60500 ssh2
+Apr 21 09:06:10 server1 app[2103]: CRITICAL failed to initialize module
+Apr 21 09:06:50 server1 sshd[1028]: Failed password for invalid user admin from 192.168.1.10 port 51426 ssh2
